@@ -15,7 +15,7 @@ public class vending {
    		 }
    		}
    	 System.out.println("currency count");
-   	 for(int i = 0; i < 50; i++) {
+   	 for(int i = 0; i < 8; i++) {
    		 if(notecount[i] != 0) {
    			 System.out.println(notes[i] + ":" + notecount[i]);
    		 }
